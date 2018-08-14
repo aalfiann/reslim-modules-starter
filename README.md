@@ -2,7 +2,7 @@
 This source code is only blank or starter package. This will help you save more minutes to create an app quickly.  
 
 ### How to create new app or modules?
-You can learn from documentation here >> [Tutorial Create Module](https://github.com/aalfiann/reSlim/wiki/Tutorial-Create-Module).
+You can learn from documentation here >> [Tutorial Create Module](https://github.com/aalfiann/reSlim/wiki/Tutorial-Create-Module).  
 Or learn directly from this very simple project on [Github.com](https://github.com/aalfiann/reSlim-modules-first_mod).
 
 ### Detail module information
