@@ -1,0 +1,19 @@
+{
+    "package": {
+        "name": "Starter",
+        "url": "https://github.com/aalfiann/reslim-modules-starter",
+        "description": "Use this default blank or starter package to create any app in reSlim framework.",
+        "version": "1.0",
+        "require": {
+            "reSlim": "1.9.0"
+        },
+        "license": {
+            "type": "MIT",
+            "url": "https://github.com/aalfiann/reslim-modules-starter/blob/master/LICENSE.md"
+        },
+        "author": {
+            "name": "M ABD AZIZ ALFIAN",
+            "url": "https://github.com/aalfiann"
+        }
+    }
+}
